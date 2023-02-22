@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./profile-3d-contrib/profile-night-view.svg)
-
-
 ![](./profile-summary-card-output/2077/0-profile-details.svg)
-
 ![](./profile-summary-card-output/2077/3-stats.svg) ![](./profile-summary-card-output/2077/1-repos-per-language.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
