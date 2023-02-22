@@ -25,14 +25,14 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/sourabh-karmarkar/) or
 When I'm not coding, you can find me playing badminton or binge-watching my favorite TV shows.
 
 <p>
-  <div style="display: grid; place-items: center; grid-auto-flow: column; margin-bottom: 1rem;">
+  <div align="center" style="display: grid; place-items: center; grid-auto-flow: column; margin-bottom: 1rem;">
     <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Sublime's custom image"/>
   </div>
-  <div style="display: grid; place-items: center; grid-auto-flow: column; margin-bottom: 1rem;">
+  <div align="center" style="display: grid; place-items: center; grid-auto-flow: column; margin-bottom: 1rem;">
     <img src="profile-summary-card-output/2077/3-stats.svg" alt="Sublime's custom image"/>
     <img src="profile-summary-card-output/2077/1-repos-per-language.svg" alt="Sublime's custom image"/>
   </div>
-  <div style="display: grid; place-items: center; grid-auto-flow: column;">
+  <div align="center" style="display: grid; place-items: center; grid-auto-flow: column;">
     <img src="profile-3d-contrib/profile-night-view.svg" alt="Sublime's custom image"/>
   </div>
 </p>
