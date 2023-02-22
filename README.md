@@ -24,6 +24,11 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/sourabh-karmarkar/) or
 
 When I'm not coding, you can find me playing badminton or binge-watching my favorite TV shows.
 
-![](./profile-summary-card-output/2077/0-profile-details.svg)
-![](./profile-summary-card-output/2077/3-stats.svg) ![](./profile-summary-card-output/2077/1-repos-per-language.svg)
-![](./profile-3d-contrib/profile-night-view.svg)
+<p align="center">
+  <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Sublime's custom image"/>
+  <div>
+    <img src="profile-summary-card-output/2077/3-stats.svg" alt="Sublime's custom image"/>
+    <img src="profile-summary-card-output/2077/1-repos-per-language.svg" alt="Sublime's custom image"/>
+  </div>
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="Sublime's custom image"/>
+</p>
